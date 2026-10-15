@@ -46,7 +46,7 @@ ul{margin:4px 0 0;padding-left:20px}
 <section id="about">
   <h2>About</h2>
   <p>I am completing a BS in Geographic Information Science and Technology at Texas A&amp;M University (December 2026 candidate, 3.65 major GPA). I transferred in as a junior from the College of Engineering to the Department of Geography.</p>
-  <p>I have interned as a GIS analyst at Matador Resources Company (Summer 2026) and Republic Property Group (Summer 2025), working with ArcGIS Pro, Esri Field Maps and Python. Outside of GIS, my interests are fly fishing, literature, baking and travel.</p>
+  <p>I have interned as the first GIS intern at Matador Resources Company (Summer 2026) and Republic Property Group (Summer 2025), working with ArcGIS Pro, Esri Field Maps and Python. Outside of GIS, my interests are fly fishing, literature, baking and travel.</p>
 </section>
 
 <section id="projects">
