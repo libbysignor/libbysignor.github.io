@@ -141,7 +141,7 @@ ul{margin:4px 0 0;padding-left:20px}
 <footer id="contact">
   <h2>Contact</h2>
   <p>Email: <a href="mailto:libbysignor@gmail.com">libbysignor@gmail.com</a></p>
-  <p>LinkedIn / GitHub: [ADD]</p>
+  <p>LinkedIn / GitHub: <a href="libbysignor">https://www.linkedin.com/in/libbysignor/</a></p>
 </footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
